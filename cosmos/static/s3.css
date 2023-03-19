@@ -1,0 +1,66 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 435px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "Andada Pro";
+  margin: 27px 208px 0 138px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 77px;
+  margin: -94px 162px 60px 750px;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 10px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    font-family: "Almendra Display";
+    font-weight: 700;
+    margin-right: 108px;
+    margin-left: 38px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 62px;
+    margin-left: 650px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-right: 0;
+    margin-left: 492px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    margin-left: 312px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    margin-left: 112px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 177px;
+}.u-section-3 .u-sheet-1 {
+  min-height: 207px;
+}
